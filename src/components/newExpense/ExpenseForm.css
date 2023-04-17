@@ -1,0 +1,12 @@
+.inputDiv {
+  display: flex;
+  gap: 30px;
+}
+
+.btnDiv {
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+
